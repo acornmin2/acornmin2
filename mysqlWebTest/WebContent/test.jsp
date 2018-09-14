@@ -13,6 +13,8 @@
 </head>
 <body>
 	<h3>test.jsp</h3>
+	<h3>3th commit</h3>
+	
 	<%
 		// 1. 환경 변수
 		String driver="com.mysql.jdbc.Driver";
